@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Mr.Wilson
+  m_EditorClassIdentifier: 
+  characterName: Mr.Wilson
+  brain: workspaces/neighbourhood_sim-dxyap/characters/mrwilson
+  avatar: {fileID: 0}
+  workspace: workspaces/neighbourhood_sim-dxyap
+  currentScene: workspaces/neighbourhood_sim-dxyap/characters/mrwilson
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: cb1bfe59b10f83c4b8a6744e7e39b069, type: 3}
+  index: 0
+  triggers:
+  - 
+  scenes:
+  - workspaces/neighbourhood_sim-dxyap/scenes/mr_wilson_guide
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/16382cc1-a623-44e6-99d6-8a77d9550b93.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/16382cc1-a623-44e6-99d6-8a77d9550b93_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/16382cc1-a623-44e6-99d6-8a77d9550b93_portrait.jpg
+  characterID: b1ccc8b2-ca5f-4c8f-bba6-aabffe6c064e

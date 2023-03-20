@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b215506e631ea1e4889c6eed14cd3948, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  currentServer: {fileID: 11400000, guid: 28b3b2b35eaee4a4abd0939f64328122, type: 2}
+  currentWorkspace: {fileID: 11400000, guid: 00687960b5678b445a8b603353672532, type: 2}
+  currentScene: {fileID: 11400000, guid: 2f756c6a85d0a794b8810b4756415e7f, type: 2}
+  currentCharacter: {fileID: 11400000, guid: 71e35594da5196e4bbdcee4b34bbbce8, type: 2}
+  currentKey: {fileID: 11400000, guid: 74cf744159db70f4b89973813991aa05, type: 2}
